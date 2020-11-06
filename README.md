@@ -2,3 +2,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This repository holds tic-tac-toe game written in React. While building this game [React tutorial](https://reactjs.org/tutorial/tutorial.html) were referred and enhancement is done to existing code to add extra features.
 
+For Live Demo [Click here](https://ravibmohite.github.io/tic-tac-toe/).
+
