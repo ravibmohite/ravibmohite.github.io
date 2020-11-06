@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ravibmohite/tic-tac-toe/static/css/main.179b5346.chunk.css",
+    "main.js": "/ravibmohite/tic-tac-toe/static/js/main.18ad7bfb.chunk.js",
+    "main.js.map": "/ravibmohite/tic-tac-toe/static/js/main.18ad7bfb.chunk.js.map",
+    "runtime-main.js": "/ravibmohite/tic-tac-toe/static/js/runtime-main.a3d650e7.js",
+    "runtime-main.js.map": "/ravibmohite/tic-tac-toe/static/js/runtime-main.a3d650e7.js.map",
+    "static/js/2.ae5f58ff.chunk.js": "/ravibmohite/tic-tac-toe/static/js/2.ae5f58ff.chunk.js",
+    "static/js/2.ae5f58ff.chunk.js.map": "/ravibmohite/tic-tac-toe/static/js/2.ae5f58ff.chunk.js.map",
+    "index.html": "/ravibmohite/tic-tac-toe/index.html",
+    "precache-manifest.ef5aadab4c8698e3fdd337b99d966670.js": "/ravibmohite/tic-tac-toe/precache-manifest.ef5aadab4c8698e3fdd337b99d966670.js",
+    "service-worker.js": "/ravibmohite/tic-tac-toe/service-worker.js",
+    "static/css/main.179b5346.chunk.css.map": "/ravibmohite/tic-tac-toe/static/css/main.179b5346.chunk.css.map",
+    "static/js/2.ae5f58ff.chunk.js.LICENSE.txt": "/ravibmohite/tic-tac-toe/static/js/2.ae5f58ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3d650e7.js",
+    "static/js/2.ae5f58ff.chunk.js",
+    "static/css/main.179b5346.chunk.css",
+    "static/js/main.18ad7bfb.chunk.js"
+  ]
+}
