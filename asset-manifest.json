@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ravibmohite.github.io/tic-tac-toe/tree/gh-pages/static/css/main.179b5346.chunk.css",
-    "main.js": "/ravibmohite.github.io/tic-tac-toe/tree/gh-pages/static/js/main.9e253c4d.chunk.js",
-    "main.js.map": "/ravibmohite.github.io/tic-tac-toe/tree/gh-pages/static/js/main.9e253c4d.chunk.js.map",
-    "runtime-main.js": "/ravibmohite.github.io/tic-tac-toe/tree/gh-pages/static/js/runtime-main.8dffed32.js",
-    "runtime-main.js.map": "/ravibmohite.github.io/tic-tac-toe/tree/gh-pages/static/js/runtime-main.8dffed32.js.map",
-    "static/js/2.ae5f58ff.chunk.js": "/ravibmohite.github.io/tic-tac-toe/tree/gh-pages/static/js/2.ae5f58ff.chunk.js",
-    "static/js/2.ae5f58ff.chunk.js.map": "/ravibmohite.github.io/tic-tac-toe/tree/gh-pages/static/js/2.ae5f58ff.chunk.js.map",
-    "index.html": "/ravibmohite.github.io/tic-tac-toe/tree/gh-pages/index.html",
-    "precache-manifest.05006d8b5ce7577b0f1e2a9e56852fa3.js": "/ravibmohite.github.io/tic-tac-toe/tree/gh-pages/precache-manifest.05006d8b5ce7577b0f1e2a9e56852fa3.js",
-    "service-worker.js": "/ravibmohite.github.io/tic-tac-toe/tree/gh-pages/service-worker.js",
-    "static/css/main.179b5346.chunk.css.map": "/ravibmohite.github.io/tic-tac-toe/tree/gh-pages/static/css/main.179b5346.chunk.css.map",
-    "static/js/2.ae5f58ff.chunk.js.LICENSE.txt": "/ravibmohite.github.io/tic-tac-toe/tree/gh-pages/static/js/2.ae5f58ff.chunk.js.LICENSE.txt"
+    "main.css": "/ravibmohite.github.io/tree/gh-pages/static/css/main.179b5346.chunk.css",
+    "main.js": "/ravibmohite.github.io/tree/gh-pages/static/js/main.9e253c4d.chunk.js",
+    "main.js.map": "/ravibmohite.github.io/tree/gh-pages/static/js/main.9e253c4d.chunk.js.map",
+    "runtime-main.js": "/ravibmohite.github.io/tree/gh-pages/static/js/runtime-main.0088824b.js",
+    "runtime-main.js.map": "/ravibmohite.github.io/tree/gh-pages/static/js/runtime-main.0088824b.js.map",
+    "static/js/2.ae5f58ff.chunk.js": "/ravibmohite.github.io/tree/gh-pages/static/js/2.ae5f58ff.chunk.js",
+    "static/js/2.ae5f58ff.chunk.js.map": "/ravibmohite.github.io/tree/gh-pages/static/js/2.ae5f58ff.chunk.js.map",
+    "index.html": "/ravibmohite.github.io/tree/gh-pages/index.html",
+    "precache-manifest.d3f2b727942fad3c53961bafce2eae41.js": "/ravibmohite.github.io/tree/gh-pages/precache-manifest.d3f2b727942fad3c53961bafce2eae41.js",
+    "service-worker.js": "/ravibmohite.github.io/tree/gh-pages/service-worker.js",
+    "static/css/main.179b5346.chunk.css.map": "/ravibmohite.github.io/tree/gh-pages/static/css/main.179b5346.chunk.css.map",
+    "static/js/2.ae5f58ff.chunk.js.LICENSE.txt": "/ravibmohite.github.io/tree/gh-pages/static/js/2.ae5f58ff.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8dffed32.js",
+    "static/js/runtime-main.0088824b.js",
     "static/js/2.ae5f58ff.chunk.js",
     "static/css/main.179b5346.chunk.css",
     "static/js/main.9e253c4d.chunk.js"
